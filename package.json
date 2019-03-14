@@ -1,0 +1,25 @@
+{
+  "name": "workspace-boilerplate",
+  "version": "1.0.0",
+  "description": "The base tools I use when I start a new project.",
+  "main": "index.js",
+  "scripts": {
+    "dev": "parcel src/index.html",
+    "build": "parcel build src/index.html"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/FRobaglia/workspace-boilerplate.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/FRobaglia/workspace-boilerplate/issues"
+  },
+  "homepage": "https://github.com/FRobaglia/workspace-boilerplate#readme",
+  "devDependencies": {
+    "parcel-bundler": "^1.12.2",
+    "sass": "^1.17.2"
+  }
+}
