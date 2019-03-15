@@ -1,16 +1,20 @@
 # workspace-boilerplate
 
-The base tools I use when I start a new project.
+the base tools I use when I start a new project.
 
-# Steps to follow
+# steps to follow
 
-<code> git clone https://github.com/FRobaglia/workspace-boilerplate/ </code>
+<em> in bold, the options specific to the project. </em>
 
-<code> mv workspace-boiler ProjectName </code>
 
-<code> cd workspace-boilerplate </code>
+- <code> git clone https://github.com/FRobaglia/workspace-boilerplate/ </code>
 
-<code> npm install </code>
+- <code> mv workspace-boiler  <strong>ProjectName</strong> </code>
 
-<code> npm run dev </code>
+- <code> cd workspace-boilerplate </code>
 
+- <code> git remote set-url origin  <strong>https://github.com/Username/Project/</strong> </code> </li>
+
+- <code> npm install </code>
+
+- <code> npm run dev </code>
