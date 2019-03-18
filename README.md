@@ -9,9 +9,9 @@ the base tools I use when I start a new project.
 
 - <code> git clone https://github.com/FRobaglia/workspace-boilerplate/ </code>
 
-- <code> mv workspace-boiler  <strong>ProjectName</strong> </code>
+- <code> mv workspace-boilerplate  <strong>ProjectName</strong> </code>
 
-- <code> cd workspace-boilerplate </code>
+- <code> cd <strong>ProjectName</strong> </code>
 
 - <code> git remote set-url origin  <strong>https://github.com/Username/Project/</strong> </code> </li>
 
