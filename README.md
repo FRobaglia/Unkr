@@ -13,7 +13,7 @@ the base tools I use when I start a new project.
 
 - <code> cd <strong>ProjectName</strong> </code>
 
-- <code> git remote set-url origin  <strong>https://github.com/Username/Project/</strong> </code> </li>
+- <code> git remote set-url origin  <strong>https://github.com/Username/ProjectName/</strong> </code> </li>
 
 - <code> npm install </code>
 
