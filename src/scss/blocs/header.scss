@@ -1,6 +1,37 @@
 header {
+  height: 100vh;
   .logo {
     display: block;
-    margin: 16px auto;
+    margin: 0 auto;
+  }
+  .logo-container {
+    padding-top: 32px;
+    height: 100px;
+    position: relative;
+  }
+  h2 {
+    top: 50%;
+    transform: translateY(-50%);
+    position: absolute;
+    left: 8%;
+  }
+  .saber {
+    margin: 0 auto;
+    width: 80%;
+
+    .saber-img {
+      width: 100%;
+      display: block;
+    }
+  }
+  .bottom-text {
+    width: 80%;
+    margin: 0 auto;
+    display: flex;
+    justify-content: space-between;
+  }
+  .bottom-text-description {
+    width: 40%;
+    text-align: right;
   }
 }
