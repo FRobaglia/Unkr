@@ -6,7 +6,9 @@
 .planet-1 {
   height: 170%;
   right: -26%;
-  top: -30%;
+  top: -70%;
+  z-index:2;
+  transition: all 0.2s;
 }
 
 .planet-2 {
